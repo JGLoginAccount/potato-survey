@@ -1,12 +1,12 @@
-package com.libertymutual.goforcode.hello_world_again;
+package com.golfapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HelloWorldAgainApplication {
+public class GolfAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloWorldAgainApplication.class, args);
+		SpringApplication.run(GolfAppApplication.class, args);
 	}
 }

@@ -1,4 +1,4 @@
-package com.libertymutual.goforcode.hello_world_again.models;
+package com.golfapplication.models;
 
 public class SurveyResults {
 
